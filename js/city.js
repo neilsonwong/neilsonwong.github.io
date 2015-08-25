@@ -74,7 +74,7 @@ function displayAirlineDetails(distance, angle, time, origin, destination, carri
         height: 1
     };
     var meshDetails = {
-        color: 0xffffff,
+        color: 0x9999ff,
         opacity: 1
     };
 
