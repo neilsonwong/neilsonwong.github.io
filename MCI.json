@@ -1,0 +1,199 @@
+[
+	{
+		"origin": "MCI",
+		"destination": "YYZ",
+		"time": "16:20",
+		"carrier": "AC",
+		"flight": "7320"
+	},
+	{
+		"origin": "MCI",
+		"destination": "LHR",
+		"time": "10:15",
+		"carrier": "AA",
+		"flight": "1860"
+	},
+	{
+		"origin": "MCI",
+		"destination": "LHR",
+		"time": "11:20",
+		"carrier": "LH",
+		"flight": "9195"
+	},
+	{
+		"origin": "MCI",
+		"destination": "LHR",
+		"time": "12:15",
+		"carrier": "VS",
+		"flight": "5188"
+	},
+	{
+		"origin": "MCI",
+		"destination": "LHR",
+		"time": "13:05",
+		"carrier": "AA",
+		"flight": "1870"
+	},
+	{
+		"origin": "MCI",
+		"destination": "LHR",
+		"time": "14:10",
+		"carrier": "AA",
+		"flight": "1754"
+	},
+	{
+		"origin": "MCI",
+		"destination": "LHR",
+		"time": "15:40",
+		"carrier": "AA",
+		"flight": "4492"
+	},
+	{
+		"origin": "MCI",
+		"destination": "LHR",
+		"time": "16:17",
+		"carrier": "AA",
+		"flight": "4500"
+	},
+	{
+		"origin": "MCI",
+		"destination": "LHR",
+		"time": "17:12",
+		"carrier": "DL",
+		"flight": "959"
+	},
+	{
+		"origin": "MCI",
+		"destination": "BOS",
+		"time": "11:25",
+		"carrier": "WN",
+		"flight": "348"
+	},
+	{
+		"origin": "MCI",
+		"destination": "BOS",
+		"time": "19:50",
+		"carrier": "WN",
+		"flight": "2570"
+	},
+
+	{
+		"origin": "MCI",
+		"destination": "JFK",
+		"time": "10:09",
+		"carrier": "DL",
+		"flight": "701"
+	},
+	{
+		"origin": "MCI",
+		"destination": "JFK",
+		"time": "12:15",
+		"carrier": "DL",
+		"flight": "2075"
+	},
+	{
+		"origin": "MCI",
+		"destination": "JFK",
+		"time": "13:50",
+		"carrier": "DL",
+		"flight": "1837"
+	},
+	{
+		"origin": "MCI",
+		"destination": "JFK",
+		"time": "15:21",
+		"carrier": "DL",
+		"flight": "2111"
+	},
+	{
+		"origin": "MCI",
+		"destination": "JFK",
+		"time": "16:55",
+		"carrier": "DL",
+		"flight": "918"
+	},
+	{
+		"origin": "MCI",
+		"destination": "BHM",
+		"time": "10:06",
+		"carrier": "UA",
+		"flight": "5790"
+	},
+	{
+		"origin": "MCI",
+		"destination": "JFK",
+		"time": "11:17",
+		"carrier": "UA",
+		"flight": "4692"
+	},
+  {
+		"origin": "MCI",
+		"destination": "BHM",
+		"time": "12:40",
+		"carrier": "UA",
+		"flight": "6097"
+	},
+  {
+		"origin": "MCI",
+		"destination": "BHM",
+		"time": "14:35",
+		"carrier": "UA",
+		"flight": "3733"
+	},
+	{
+		"origin": "MCI",
+		"destination": "BHM",
+		"time": "16:40",
+		"carrier": "UA",
+		"flight": "4870"
+	},
+	{
+		"origin": "MCI",
+		"destination": "MEL",
+		"time": "14:35",
+		"carrier": "UA",
+		"flight": "3733"
+	},
+	{
+		"origin": "MCI",
+		"destination": "MEL",
+		"time": "14:40",
+		"carrier": "UA",
+		"flight": "4870"
+	},
+	{
+		"origin": "MCI",
+		"destination": "SMF",
+		"time": "14:15",
+		"carrier": "DL",
+		"flight": "990"
+	},
+	{
+		"origin": "MCI",
+		"destination": "SMF",
+		"time": "15:21",
+		"carrier": "DL",
+		"flight": "2111"
+	},
+	{
+		"origin": "MCI",
+		"destination": "SMF",
+		"time": "16:55",
+		"carrier": "AS",
+		"flight": "759"
+	},
+	{
+		"origin": "MCI",
+		"destination": "YVR",
+		"time": "14:15",
+		"carrier": "DL",
+		"flight": "990"
+	},
+	{
+		"origin": "MCI",
+		"destination": "YVR",
+		"time": "16:20",
+		"carrier": "AC",
+		"flight": "7320"
+	}
+]
